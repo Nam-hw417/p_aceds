@@ -1,0 +1,25 @@
+* 네 길을 여호와께 맡기라 저를 의지하면 저가 이루시고, 아멘*
+
+
+<Ace Data Scientist>
+
+1. Business Planning
+
+* diamond model
+* stp - 4p (4s)
+* hypothesis - experiment
+
+2. Coding
+
+* intention
+* question
+* expression
+ > speed, elegance, extension (refactoring)
+ 
+4. Data
+
+* What data do I need?
+* Where can I get the data?
+* How can I handle the data?
+
+
