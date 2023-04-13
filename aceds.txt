@@ -16,7 +16,7 @@
 * expression
  > speed, elegance, extension (refactoring)
  
-4. Data
+3. Data
 
 * What data do I need?
 * Where can I get the data?
