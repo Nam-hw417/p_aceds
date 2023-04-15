@@ -46,3 +46,10 @@
 
 https://stat.kita.net/stat/kts/statCode/ItemCnvCodeList.screen
 
+
+# 1. 데이터를 얻고 (get data)
+# 2. 데이터를 다루고 (manipulate data)
+# 3. 데이터에서 가치를 창출하는 것 (business model from data)
+
+* customer value
+
