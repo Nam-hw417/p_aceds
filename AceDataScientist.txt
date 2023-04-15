@@ -41,3 +41,8 @@
 (9) How can I make service model?
 (10) How can I make experiment and get feedback?
 
+
+## 무역통계: hscode - mticode mapping ##
+
+https://stat.kita.net/stat/kts/statCode/ItemCnvCodeList.screen
+
