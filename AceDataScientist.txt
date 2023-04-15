@@ -1,0 +1,29 @@
+
+
+<Ace Data Scientist>
+
+
+1. Strategy
+
+* Question
+* Answer
+* ChatGPT
+
+2. Demand
+
+* Viewpoint (Customer)
+* Hypothesis - Experiment
+* STP - 4p(4s)
+
+3. Supply
+
+* Data Sourse
+* Data Manipulation
+* Data Value
+
+4. Programming
+
+* variable / if else / loop
+* function / class / type
+* input / output
+
