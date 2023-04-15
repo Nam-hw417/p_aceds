@@ -27,3 +27,17 @@
 * function / class / type
 * input / output
 
+
+## I can ask ##
+
+(1) Who is my customer?
+(2) What demand the customers have?
+(3) What is the problem?
+(4) What data do I need for solving the problem?
+(5) What is my hypothesis to solve the problem?
+(6) Where is the data to solve the problem?
+(7) How can I manipulate the data?
+(8) How can I make value from the data?
+(9) How can I make service model?
+(10) How can I make experiment and get feedback?
+
