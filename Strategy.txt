@@ -1,0 +1,25 @@
+네 길을 여호와께 맡기라 저를 의지하면 저가 이루시고, 아멘.
+
+
+<Ace Data Scientist>
+
+
+1. Strategy
+
+> question
+> problems
+> solution
+
+2. Demand
+
+> Viewpoint
+> STP-4P
+> Hypothesis-Experiment
+
+3. Supply
+
+> Coding
+> Data
+> Etc
+
+4. Supportive: ChatGPT
